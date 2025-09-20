@@ -82,7 +82,7 @@ A curated collection of open-source learning materials, tools, and libraries for
 
 ## Papers & Publications
 
-- **[In Search of Beautiful Molecules: A Perspective on Generative Modeling for Drug Design](https://pubs.acs.org/doi/10.1021/acs.jcim.5c01203)
+- **[In Search of Beautiful Molecules: A Perspective on Generative Modeling for Drug Design](https://pubs.acs.org/doi/10.1021/acs.jcim.5c01203)**
 
 ---
 
