@@ -19,32 +19,30 @@ A curated collection of open-source learning materials, tools, and libraries for
 
 ### Courses & Workshops
 
-#### Academic Courses
-- **[Volkamer Lab Teaching Materials](https://github.com/volkamerlab)** - Multiple computational drug discovery courses from Charité Berlin
+- **[Volkamer Lab Teaching Materials](https://github.com/volkamerlab)** - Course and resources from the [Volkamer lab](https://volkamerlab.org)
   
-- **[ML for Drug Discovery Course](https://github.com/maomlab/ML4DrugDiscoveryCourse)** - Comprehensive machine learning course focused on drug discovery applications
+- **[ML for Drug Discovery Course](https://github.com/maomlab/ML4DrugDiscoveryCourse)** - A course that focuses on fundamental concepts and methods
 
-- **[MLDD24 - Machine Learning in Drug Discovery](https://github.com/gmum/mldd24)** - Materials from the 2024 workshop series
+- **[MLDD24 - Machine Learning in Drug Discovery](https://github.com/gmum/mldd24)** - Course materials for the 2024 course
 
-#### Hands-on Workshops
-- **[CBR Teaching Notebooks](https://github.com/CDDLeiden/CBR_teaching)** - Interactive Jupyter notebooks for learning computational drug discovery
+- **[CBR Teaching Notebooks](https://github.com/CDDLeiden/CBR_teaching)** - Repo for the course
 
-- **[Gould Group AIDD Workshops](https://github.com/GouldGroup/aidd-workshops)** - AI-driven drug discovery workshop materials
+- **[Gould Group AIDD Workshops](https://github.com/GouldGroup/aidd-workshops)** - Code and instructions for the workshop sessions
 
-- **[MTL Summer School 2024](https://github.com/valence-labs/mtl_summer_school_2024)** - Montreal summer school on ML for drug discovery
+- **[Valence Labs Summer School 2024](https://github.com/valence-labs/mtl_summer_school_2024)** - Summer school on ML for drug discovery
+  
+- **[Python For Cheminformatics-Driven Molecular Docking](https://pdb101.rcsb.org/train/training-events/python4)** - Workshop on molecular docking
 
 #### Books & Extended Resources
-- **[ML Drug Discovery Book Notebooks](https://github.com/nrflynn2/ml-drug-discovery)** - Companion coding notebooks for upcoming book on machine learning in drug discovery
+- **[ML for Drug Discovery Book Notebooks](https://github.com/nrflynn2/ml-drug-discovery)** - Companion coding notebooks for upcoming book [Machine Learning for Drug Discovery](https://www.manning.com/books/machine-learning-for-drug-discovery)
 
 ### Blogs & Websites
 
-#### Individual Experts
+#### Blogs
 - **[Pat Walters' Blog](https://patwalters.github.io)** - Practical cheminformatics insights and tutorials
-  - Focus on real-world applications and best practices
 
 - **[Srijit Seal's Blog](https://srijitseal.com)** - AI and drug discovery perspectives
 
-#### Industry Perspectives
 - **[In the Pipeline](https://www.science.org/blogs/pipeline)** - Derek Lowe's pharmaceutical industry and drug discovery blog
 
 ---
@@ -53,12 +51,9 @@ A curated collection of open-source learning materials, tools, and libraries for
 
 *A collection of tools and libraries I've used, experimented with, or found interesting. This is not exhaustive and there are many excellent tools out there!*
 
-### Molecular Manipulation & Processing
-- **Datamol** - Modern molecular manipulation library
+- **Datamol** - 
 
-
-### Generative Models
-- **DrugEx** - Deep learning for de novo drug design
+- **DrugEx** -
 
 ### Additional Categories
 *To be expanded with more tools as I explore them*
