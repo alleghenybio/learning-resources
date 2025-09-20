@@ -49,11 +49,31 @@ A curated collection of open-source learning materials, tools, and libraries for
 
 ## Tools & Libraries
 
-*A collection of tools and libraries I've used, experimented with, or found interesting. This is not exhaustive and there are many excellent tools out there!*
+*A collection of tools and libraries (and data) I've used, experimented with, or found interesting. This is not exhaustive and there are many excellent tools out there!*
 
-- **Datamol** - 
+- **[ChEMBL](https://www.ebi.ac.uk/chembl/)** - Database of bioactive molecules
 
-- **DrugEx** -
+- **[ZINC](https://cartblanche.docking.org)** - Also the Docking.org team has many [repos](https://github.com/docking-org)
+
+- **[PubChem](https://pubchem.ncbi.nlm.nih.gov)** - Large collection of chemical information
+
+- **[COCONUT](https://coconut.naturalproducts.net)** - Natural products database
+   
+- **[RDKit](https://www.rdkit.org)** - Popular cheminformatics library 
+
+- **[Datamol](https://datamol.io)** - Open-source toolkit for drug discovery
+
+- **[DrugEx](https://github.com/CDDLeiden/DrugEx)** - Open-source library for drug discovery
+
+- **[REINVENT4](https://github.com/MolecularAI/REINVENT4)** - Molecular design tool
+   
+- **[mrl](https://darkmatterai.github.io/mrl/)** - Python library for molecular reinforcement learning
+
+- **[TorchDrug](https://torchdrug.ai)** - ML platfrom for drug discovery
+  
+- **[Open Targets](https://www.opentargets.org)** - Target selection resource
+
+- **[ADMET-AI](https://github.com/swansonk14/admet_ai)** - ADMET prediction platform
 
 ### Additional Categories
 *To be expanded with more tools as I explore them*
@@ -62,8 +82,8 @@ A curated collection of open-source learning materials, tools, and libraries for
 
 ## Papers & Publications
 
-*Interesting papers and reviews will be added here, organized by topic*
+- **[In Search of Beautiful Molecules: A Perspective on Generative Modeling for Drug Design](https://pubs.acs.org/doi/10.1021/acs.jcim.5c01203)
 
 ---
 
-*Maintained by [Allegheny Biosciences](https://github.com/allegheny-biosciences) | Last updated: [Date]*
+*Maintained by [Allegheny Biosciences](https://github.com/allegheny-biosciences) | Last updated: September 2025*
