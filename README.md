@@ -45,6 +45,8 @@ A curated collection of open-source learning materials, tools, and libraries for
 
 - **[In the Pipeline](https://www.science.org/blogs/pipeline)** - Derek Lowe's pharmaceutical industry and drug discovery blog
 
+- **[MoleculeInsight](https://moleculeinsight.com)** - Modern drug discovery blog, has some nice computational drug discovery posts
+
 ---
 
 ## Tools & Libraries
